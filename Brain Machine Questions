@@ -1,0 +1,32 @@
+the goal is to diffrentiate the neurons pulses from each other.
+Because I believe they must be a specturum, they can't be  a boolean logic.
+They probably are a range of activity.
+
+initiate:
+Int Vector [3,4,5] electrode 44;
+senses a active neuron x2 in a milisecond.
+He should alert us.
+finding some diferrentiation is key in this program.
+
+Electrodes will have 3 parts depending on how deep they are in the brain.
+I will call them:
+   _deep_a
+   _deep_b
+   _deep_c
+
+Part of the electrode will give us of the activity depending on
+how deep.
+We will measure time, space(profundity), and strength.
+
+Questions to be asked:
+- Does the speed inform us of anything?
+- Does speed of a pusle of electricity traveling the axons into a synapse
+ mean anything?
+ - How can this code help us using The powers of C lang
+ to measure exactly how fast things are moving inside?
+ - The Cell body( Soma ) how can her study tell us the overall
+ process of the brain?
+ - how can we study the diffrent kinds of cells in the brain?
+ - Is there any benefit in digging to the atomic level?
+  _ what can quarks inside of protons and neutrons in an atom tell uus
+  about our mission?
