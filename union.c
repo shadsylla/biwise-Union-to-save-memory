@@ -78,6 +78,6 @@ print_character(r2d2);
  return 0;
 }
 
-/* ehy would I use a union,
+/* Why would I use a union?
 let's say I am making a game that has many characters
-Union will save me some memory */
+Union will save me some memory. How?  */
