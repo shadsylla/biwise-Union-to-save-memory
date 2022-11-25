@@ -31,7 +31,7 @@ int main()
         counts.medium++;
         counts.large++;
         printf("%u, %u, %u, %s,\n", counts.little, counts.medium,
-     counts.large,  " This is the price of your NFT today");
+     counts.large,  " \nThis is the price of your NFT today\n\n");
    }
-   printf(" Sizeof counts =n %lu\n", sizeof(counts));
+   printf(" \nSizeof counts =n %lu\n", sizeof(counts));
 }
